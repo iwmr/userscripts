@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name               [disney.com] from abroad
-// @namespace          http://maihamakyo.org/
+// @namespace          https://github.com/iwmr/
 // @description        redirect URL with "intoverride=true"
 // @include            http://*disney.com/*
 // @version            0.1
